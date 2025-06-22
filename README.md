@@ -26,5 +26,5 @@ A beautiful Python Flask app that scrapes inspirational quotes and displays them
 ## 👨‍💻 Made By
 
 **Subahan Pathan**  
-📧 your@email.com  
+📧 subahanpathan4@gmail.com  
 🔗 [LinkedIn](https://linkedin.com) (optional)  
